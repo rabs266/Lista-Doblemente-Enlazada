@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1392333175 source:/home/alexander/Projects/CodeBlocks/Lista_Doble/ListaDoble.cpp
+	"ListaDoble.h"
+
+1392332690 /home/alexander/Projects/CodeBlocks/Lista_Doble/ListaDoble.h
+	<iostream>
+	"NodoDoble.h"
+
+1392142643 /home/alexander/Projects/CodeBlocks/Lista_Doble/NodoDoble.h
+	<iostream>
+
+1392333123 source:/home/alexander/Projects/CodeBlocks/Lista_Doble/main.cpp
+	<iostream>
+	"ListaDoble.h"
+
+1392142649 source:/home/alexander/Projects/CodeBlocks/Lista_Doble/NodoDoble.cpp
+	"NodoDoble.h"
+
